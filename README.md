@@ -1,9 +1,9 @@
-<h1 align="center">The Sensor DB</h1>
-<h5 align="center">13/05/2022</h5>
+<h1 align="center">31261 - The Sensor DB</h1>
+<h5 align="center">15/05/2022</h5>
 
 <h3 align="center">Description</h3>
 
-A simple web application designed to be vulnerable to all kinds of SQL attacks. It is not safe to deploy this in any production server, use it at your own risk. I am not responsible for any damages that you might experience.
+This is based on my implementation of SQLIA vulnerable web app called 'The Gadget Shop'. With the titles and database renamed to 'sensors', to fit the context of IoT Security. For the purposes of project demonstration for my supervisors.
 
 <h3 align="center">Instructions</h3>
 
