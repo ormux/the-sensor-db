@@ -25,7 +25,7 @@ secure_file_priv = ""
 - `sudo mysql < db/init_db.sql`
 3. Run the application
 ```
-cd sql-injection-php
+cd 31261-The-Sensor-DB
 php -S localhost:5000
 ```
 
