@@ -1,6 +1,8 @@
 <h1 align="center">31261 - The Sensor DB</h1>
 <h5 align="center">15/05/2022</h5>
 
+![the-sensor-db](https://user-images.githubusercontent.com/19354579/168476334-f9ab3256-b5da-4387-a4c1-787a94002b27.png)
+
 <h3 align="center">Description</h3>
 
 This is based on my implementation of SQLIA vulnerable web app called 'The Gadget Shop'. With the titles and database renamed to 'sensors', to fit the context of IoT Security. For the purposes of project demonstration for my supervisors.
