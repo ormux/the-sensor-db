@@ -5,7 +5,7 @@
 
 <h3 align="center">Description</h3>
 
-This is based on my implementation of SQLIA vulnerable web app called 'The Gadget Shop'. With the titles and database renamed to 'sensors', to fit the context of IoT Security. For the purposes of project demonstration for my supervisors.
+This is based on my implementation of SQLIA vulnerable web app called 'The Gadget Shop'. With the titles and database renamed to 'sensors', to fit the context of IoT Security. For the purposes of project demonstration to my supervisors.
 
 <h3 align="center">Instructions</h3>
 
