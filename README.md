@@ -16,7 +16,7 @@ This is based on my implementation of SQLIA vulnerable web app called 'The Gadge
 2. Install MySQL 8.0
 - `sudo apt mysql-server`
 
-2. Initialise the MySQL database
+3. Initialise the MySQL database
 - `sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf`
 ```
 # append the following to the [mysqld] section excluding this comment
@@ -24,7 +24,12 @@ This is based on my implementation of SQLIA vulnerable web app called 'The Gadge
 secure_file_priv = ""
 ```
 - `sudo mysql < db/init_db.sql`
-3. Run the application
+
+4. Apply/Remove Firewall Rules
+- `sudo bash ufw-rules.sh on`
+- `sudo bash ufw-rules.sh off`
+
+4. Run the application
 ```
 cd 31261-The-Sensor-DB
 php -S localhost:5000
