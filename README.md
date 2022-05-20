@@ -9,8 +9,9 @@ This is based on my implementation of SQLIA vulnerable web app called 'The Gadge
 
 <h3 align="center">Instructions</h3>
 
-1. Install PHP 7.4.29
-- `sudo apt install php7.4 php7.4-mysql php7.4-cli`
+1. Install PHP 7.3
+- `sudo apt update`
+- `sudo apt install php7.3 php7.3-mysql php7.3-cli`
 
 2. Install MySQL 8.0
 - `sudo apt mysql-server`
