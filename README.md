@@ -5,7 +5,7 @@
 
 <h3 align="center">Description</h3>
 
-This is based on my implementation of SQLIA vulnerable web app called 'The Gadget Shop'. With the titles and database renamed to 'sensors', to fit the context of IoT Security. For the purposes of project demonstration to my supervisors.
+This is a simulated dummy environment used to demonstrate vulnerable web applications running on IoT devices. For the purposes of demonstrating various kinds of SQL injection attacks, in relation to IoT security.
 
 <h3 align="center">Instructions for Raspberry Pi</h3>
 
